@@ -16,3 +16,6 @@ Para instalar as dependências só é preciso executar o comando: `npm install`
 
 Para iniciar o servidor e os processos de desenvolvimento, utilize o comando: `npm start `
 
+Caso não funcione com npm start, por favor rodar com dois terminais: `npm run server` e `npm run dev` 
+
+Obs: Caso a página abra em branco, atualize com F5.
